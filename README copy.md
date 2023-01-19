@@ -6,25 +6,23 @@ A Google Books API search engine refactored from a RESTful API to a GraphQL API 
 
 ## Technologies Used
 
+- Node.js
 - React
 - MongoDB
-- Express.js
-- Node.js
-- GraphQL
 - JSONWebToken
+- Express.js
+- GraphQL
+
 
 ## Errors
 
-Was not able to fully complete challenge due to time constraints. Will work to complete app and make it fully functional after challenge is submitted.
+Was not able to fully complete challenge.
 
 Also had an issue getting the back end to start using npm start.
 
-- HEROKU APP SUCCESSFULLY DEPLOYS!
-
 ## Screenshots
 
-![booksearchscreen1](https://user-images.githubusercontent.com/83250389/138353216-4af7a057-7b1b-436e-a939-1c828f262465.png)
-
+![booksearchscreen1]
 ## Links
 
 Github Repo: 
