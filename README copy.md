@@ -25,6 +25,6 @@ Also had an issue getting the back end to start using npm start.
 ![booksearchscreen1]
 ## Links
 
-Github Repo: 
+Github Repo: https://github.com/chelsbo/Book-Search-Engine
 
-Heroku: 
+Heroku: https://book-search-engine-chelsearees.herokuapp.com/
